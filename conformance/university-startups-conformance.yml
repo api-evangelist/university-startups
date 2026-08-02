@@ -1,0 +1,25 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.university-startups.com/responsible-ai-use
+notes: University Startups publishes its security and compliance posture on its
+  Responsible AI Use page, which serves as the company's primary trust
+  documentation. No public API surface exists, so entries below cover the SaaS
+  platform, not an API contract.
+standards:
+- id: govramp
+  conforms: false
+  status: progressing-snapshot
+  evidence: 'Responsible AI Use page: "Our current designation is Progressing
+    Snapshot, which indicates we are actively working through GovRAMP''s security
+    assessment framework" — documented progress toward GovRAMP security
+    requirements, not full authorization.'
+- id: ferpa
+  conforms: true
+  evidence: 'Responsible AI Use page: "student educational records are handled in
+    accordance with the Family Educational Rights and Privacy Act (FERPA) and
+    applicable state laws".'
+- id: idea-indicator-13
+  conforms: true
+  evidence: Product-level compliance domain — the Transition Plan Reviewer audits
+    IEP transition plans against 11 IDEA criteria (Indicator 13); the platform is
+    built around IDEA-compliant transition planning (homepage + llms.txt).

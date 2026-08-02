@@ -1,0 +1,113 @@
+# University Startups
+
+> We make special education teachers' lives easier. One AI-powered platform that automates federally mandated IEP transition planning while reducing teacher workload by 70%.
+
+University Startups is a Transition Planning Management platform built exclusively for special education teams. It helps teachers create IDEA-compliant IEP transition plans in under 10 minutes, gives administrators a compliance reviewer that audits plans against 11 IDEA criteria in under 90 seconds, and engages students directly in building their own transition plans.
+
+## Core Products
+
+- **Transition Data Hub**: The educator's command center. Centralizes caseload management, student portfolios, and IEP calendars in one workspace. Features AI document ingestion that parses existing IEPs to auto-populate new plans instantly.
+
+- **Transition Plan Creator**: A student-facing AI assistant. Uses adaptive, 10-minute conversations to help students with disabilities build their own IDEA-compliant transition plans, ensuring student voice is at the heart of every IEP.
+
+- **Interactive Goal Bank**: A professional tool for teachers to generate measurable, SMART-format IEP goals. Input a student's grade and performance level, receive personalized goals in seconds.
+
+- **Transition Plan Reviewer**: An AI compliance engine that audits IEP transition plans against 11 IDEA criteria in under 90 seconds. Flags compliance gaps and provides specific fix recommendations so every plan is airtight before the meeting.
+
+- **Transition Readiness Score**: A collection of 5-minute surveys for students, parents, and teachers that generate a Transition Readiness Score, measuring growth and establishing baseline preparedness.
+
+- **Career & Classroom Tools**: Includes a College & Career Readiness (CCR) curriculum with AI learning assistant **Vic**, and an Internship Simulator with dedicated AI coach **Nova**.
+
+## Key Claims
+
+- 70% reduction in teacher documentation time (from 4 to 6 hours per student to under 10 minutes)
+- Compliance review in under 90 seconds against 11 IDEA criteria
+- 88% of students feel more hopeful about their futures
+- 60-Day Teacher Promise: full money-back guarantee if teachers' lives aren't easier in 60 days
+
+## Audience
+
+- **Special education teachers**: Creating IDEA-compliant IEP transition plans, writing SMART goals, tracking student progress, managing caseloads
+- **Students with disabilities**: Building their own transition plans with AI-guided support, exploring career and college readiness
+- **District administrators and compliance officers**: Ensuring IDEA compliance across all plans, reviewing documents before IEP meetings
+- **Parents**: Participating in their child's transition assessment and planning process
+
+## Customers
+
+Trusted by NYC Public Schools Transition & College Access Centers, Poudre School District, Jeff Davis County Schools, East Carroll Parish Schools, North Dakota Department of Public Instruction, and Grand Prairie Independent School District.
+
+## Contact
+
+- Website: https://www.university-startups.com/
+- Email: info@university-startups.com
+
+## About
+
+University Startups helps students with disabilities harness their strengths to build lives of purpose, possibility, and agency. The company builds transition planning tools and career-ready programs for special education teams.
+
+**Mission:** Empower teachers. Ensure compliance. Elevate student outcomes.
+
+### Leadership Team
+
+- **Marc Steren**, Co-Founder and CEO
+- **Erica Beard**, SVP of Sales
+- **Odina Salihbaeva**, Product Manager
+- **Vina Choudhury**, SVP of Programs
+- **Aashrit Surapaneni**, AI Developer/Programmer
+- **Megan Guelcher**, Customer Success Manager
+
+### Board of Advisors
+
+- **Chris Zahumensky**, Principal Owner, Infinity Growth Consulting, LLC
+- **Kara Sasse**, CEO, Ripple Operations
+- **Dr. Wina Low**, Former State Special Education Director, Georgia Department of Education
+- **Katherine Hill Ritchie**, Senior Director, Venture Funds, TEDCO
+- **Dan Cohen**, Executive Director, Center for Entrepreneurship, Wake Forest University
+- **Byron Garrett**, Executive Vice President and Chief Revenue Officer, United Way
+- **Jon Isaacson**, Chief Executive, Financial and Corporate Development Officer, Lefteris Acquisition Corp
+- **John Jabara**, Co-Founder, University Startups
+- **Ravi Puli**, President and CEO, International Solutions Group (ISG)
+- **Dr. Arsenio Romero**, Former Secretary of Education, New Mexico
+- **Bobby Tahir**, CTO Advisor, Aldrich Capital Partners
+- **Rana M. Alhumaidan**, Senior Advisor, Saudi Ministry of Economy & Planning
+- **Mohammad S. Almadani**, Co-Founder, Chairman & CEO, Classera Inc.
+
+## Pages
+
+- [Home](https://www.university-startups.com/)
+- [Our Platform](https://www.university-startups.com/our-platform)
+- [Transition Data Hub](https://www.university-startups.com/transition-data-hub)
+- [Interactive Goal Bank](https://www.university-startups.com/interactive-goal-bank)
+- [Transition Plan Creator](https://www.university-startups.com/transition-plan-creator)
+- [Transition Plan Reviewer](https://www.university-startups.com/transition-plan-reviewer)
+- [Transition Readiness Score](https://www.university-startups.com/transition-readiness-score)
+- [Internship Simulator](https://www.university-startups.com/internship-simulator)
+- [Value](https://www.university-startups.com/value)
+- [About](https://www.university-startups.com/about)
+- [FAQ](https://www.university-startups.com/faq)
+- [Request a Demo](https://www.university-startups.com/request-demo)
+
+## Legal and support pages
+- Privacy Policy: https://www.university-startups.com/privacy-policy
+- Terms of Service: https://www.university-startups.com/terms-of-service
+- Accessibility: https://www.university-startups.com/accessibility
+- Responsible AI Use: https://www.university-startups.com/responsible-ai-use
+- Support (USU Care): https://www.university-startups.com/support
+- In the News (press and media): https://www.university-startups.com/press
+- Corrections education programs: https://www.university-startups.com/corrections
+- USU Care Portal (existing customers): https://canvas.instructure.com/courses/9067070
+
+## News articles
+- [How to Choose Transition Planning Software in 2026](https://www.university-startups.com/news/how-to-choose-transition-planning-software-in-2026)
+- [FAQs about How to Choose Transition Planning Software](https://www.university-startups.com/news/faqs-about-how-to-choose-transition-planning-software)
+- [Your Transition Services Questions, Answered by the Field](https://www.university-startups.com/news/your-transition-services-questions-answered-by-the-field)
+- [Your Complete FAQ Guide to Special Education Transition Planning](https://www.university-startups.com/news/your-complete-faq-guide-to-special-education-transition-planning)
+- [Video: Key Areas to Focus On For Effective Transition Planning](https://www.university-startups.com/news/what-really-matters-for-effective-transition-planning)
+- [University Startups vs. MajorClarity: What Special Education Teams Need to Know](https://www.university-startups.com/news/university-startups-vs-majorclarity-what-special-education-teams-need-to-know)
+- [Mastering IEP Transition Goals: Resources and Real Examples](https://www.university-startups.com/news/mastering-iep-transition-goals-resources-and-real-examples)
+- [IDEA Indicator 13: What You Need to Know for Transition Planning Compliance](https://www.university-startups.com/news/idea-indicator-13-what-you-need-to-know-for-transition-planning-compliance)
+- [How to Write IEP Transition Goals That Actually Prepare Students for Life](https://www.university-startups.com/news/how-to-write-iep-transition-goals-that-actually-prepare-students-for-life)
+- [From Paper Checklists to Digital Pathways: How Plaquemines Parish Transformed Transition Planning for Students with Disabilities](https://www.university-startups.com/news/from-paper-checklists-to-digital-pathways-how-plaquemines-parish-transformed-transition-planning-for-students-with-disabilities)
+- [Breaking Barriers: How NYC Public Schools Brought Inclusive Innovation to 200 Students with Disabilities](https://www.university-startups.com/news/breaking-barriers-how-nyc-public-schools-brought-inclusive-innovation-to-200-students-with-disabilities)
+- [AI in Special Education: What Teachers Need to Know About Privacy, Bias, and Best Practices](https://www.university-startups.com/news/ai-in-special-education-what-teachers-need-to-know-about-privacy-bias-and-best-practices)
+- [7 Essential Areas for Special Education Transition Planning: Preparing Students with Disabilities for Life Beyond High School](https://www.university-startups.com/news/7-essential-areas-for-special-education-transition-planning)

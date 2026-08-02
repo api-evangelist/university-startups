@@ -1,9 +1,26 @@
 aid: university-startups
 name: University Startups
-description: University Startups is a company surfaced as a portfolio company of techstars and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: University Startups is an AI-powered transition planning management
+  platform built for special education teams. The platform helps teachers create
+  IDEA-compliant IEP transition plans in under 10 minutes, audits plans against 11
+  IDEA Indicator 13 criteria in under 90 seconds, generates SMART-format IEP goals,
+  and engages students with disabilities in building their own transition plans,
+  alongside a college and career readiness curriculum and internship simulator. A
+  Techstars portfolio company serving United States school districts including NYC
+  Public Schools; no public developer API surface is published.
 url: https://raw.githubusercontent.com/api-evangelist/university-startups/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.university-startups.com/assets/images/logo/apple-touch-icon.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,9 +29,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Education
+- EdTech
+- Special Education
+- Artificial Intelligence
+- Transition Planning
+- IEP
+- Compliance
+- K-12
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +48,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://university-startups.com/
+  url: https://www.university-startups.com/
+- type: Support
+  url: https://www.university-startups.com/support
+- type: TermsOfService
+  url: https://www.university-startups.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.university-startups.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/University-Startups
+- type: LLMsTxt
+  url: llms/university-startups-llms.txt
+- type: Conformance
+  url: conformance/university-startups-conformance.yml
+- type: Compliance
+  url: https://www.university-startups.com/responsible-ai-use
+- type: DomainSecurity
+  url: security/university-startups-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
